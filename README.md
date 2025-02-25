@@ -18,11 +18,6 @@
     ⚡ Fun fact: <strong>🎢 Always provide Stable product!</strong>
 </p>
 
-
-
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
-
 ## 💼 Technical Skills
 
 <p align="center">
