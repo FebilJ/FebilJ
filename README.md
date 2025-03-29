@@ -12,7 +12,7 @@
 <!-- Rapid Fire -->
 <h3 align="left"><font size="+2" face="Verdana">Rapid Fire</font></h3>
 <p align="left">
-    💼 I'm currently working on: <strong>💻 End-to-End Web UI Automation E-commerce platform using Java, Selenium, TestNG</strong><br>
+    💼 I'm currently working on: <strong>💻 End-to-End API Automation Framework using Java, REST Assured, TestNG, POM</strong><br>
     🌱 I'm currently learning: <strong>📚 Exploring Playwright</strong><br>
     💬 Ask me about: <strong>💡 Java, TestNG, RestAssured, BDD and Selenium</strong><br>
     ⚡ Fun fact: <strong>🎢 Always provide Stable product!</strong>
